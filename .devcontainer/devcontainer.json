@@ -1,10 +1,12 @@
 {
   "build": {
-    "dockerfile": "Dockerfile"
+    "dockerfile": "Dockerfile",
   },
   "customizations": {
     "vscode": {
-      "extensions": ["tikkanz.language-j"]
+      "extensions": [
+        "tikkanz.language-j"
+      ]
     }
   }
 }
