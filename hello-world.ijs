@@ -5,16 +5,6 @@ NB. `NB.` denotes a comment
 
 NB. Today we're going to compute the Fibonacci numbers.
 
-NB. ===== GETTING SET UP WITH VISUAL STUDIO CODE =====
-NB. This repository is meant to be run in a VSCode Dev Container
-NB.   https://code.visualstudio.com/docs/remote/containers
-NB.
-NB. 1. Install the Remote - Containers extension
-NB.    https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
-NB. 2. Open the command palette (Ctrl/Cmd + Shift + P)
-NB. 3. Select "Remote-Containers: Reopen in Container..."
-NB. 4. You're now coding in a full Ubuntu environment with the J console
-
 NB. ===== PLAYING WITH THE J EXTENSION =====
 NB. This dev container includes the J language VSCode extension (tikkanz.language-j)
 NB. Opening this file should also open a J console
