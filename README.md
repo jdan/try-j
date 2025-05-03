@@ -6,7 +6,11 @@ Try the [J programming language](https://www.jsoftware.com) with [Visual Studio 
 
 ### Instructions
 
-This repository is meant to be run in a VSCode Dev Container https://code.visualstudio.com/docs/remote/containers
+This repository is meant to be run in a VSCode Dev Container https://code.visualstudio.com/docs/remote/containers. You can run this in a GitHub CodeSpace for free.
+
+![image](https://github.com/user-attachments/assets/48d1e793-1722-4ee9-ada3-377b6b575a57)
+
+Local install instructions:
 
 1. Install the Remote - Containers extension https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
 2. Open the command palette (Ctrl/Cmd + Shift + P)
